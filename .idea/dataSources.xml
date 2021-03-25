@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdk1.8.0_211" uuid="3d81c39f-5e0f-43b1-a44a-2f1e965224a0">
+      <driver-ref>derby.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_211</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="lib" uuid="089a83d9-bda3-46b0-9190-e3fc223d1ee8">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_211/lib</jdbc-url>
+    </data-source>
+  </component>
+</project>
